@@ -9,7 +9,7 @@ Nghiên cứu **Cryptography I** tập trung vào việc nghiên cứu và thự
 - **20225415-PhanTheToan-Project1.pdf**: Tài liệu PDF giải thích chi tiết về dự án và các thuật toán được sử dụng trong Cryptography.
 
 ## Nguồn tham khảo
-- **Cryptography I by Dan Boneh**
+- **Cryptography I by Dan Boneh**: https://www.coursera.org/learn/crypto
 - **Cryptography and network security principles and practice 7th global edition**
 
 

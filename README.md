@@ -1,7 +1,7 @@
 # Cryptography I
 
 ## Giới thiệu
-Nghiên cứu **Cryptography I** tập trung vào việc nghiên cứu và thực hiện các thuật toán mã hóa, demo hai thuật toán **AES (Advanced Encryption Standard)** và **Many-Time Pad**. Đây là một tài nguyên hữu ích cho những ai muốn tìm hiểu về mã hóa và bảo mật thông tin.
+Nghiên cứu **Cryptography I** tập trung vào việc nghiên cứu và thực hiện các thuật toán mã hóa, demo hai thuật toán **AES (Advanced Encryption Standard)** và **Many-Time Pad**.
 
 ## Nội dung
 - **aes/**: Thư mục chứa mã nguồn và tài liệu liên quan đến thuật toán AES.

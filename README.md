@@ -6,7 +6,7 @@ Nghiên cứu **Cryptography I** tập trung vào việc nghiên cứu và thự
 ## Nội dung
 - **aes/**: Thư mục chứa mã nguồn và tài liệu liên quan đến thuật toán AES.
 - **many-time-pad/**: Thư mục chứa mã nguồn và tài liệu cho kỹ thuật Many-Time Pad.
-- **documentation.pdf**: Tài liệu PDF giải thích chi tiết về dự án và các thuật toán được sử dụng trong Cryptography.
+- **20225415-PhanTheToan-Project1.pdf**: Tài liệu PDF giải thích chi tiết về dự án và các thuật toán được sử dụng trong Cryptography.
 
 ## Nguồn tham khảo
 - **Cryptography I by Dan Boneh**
